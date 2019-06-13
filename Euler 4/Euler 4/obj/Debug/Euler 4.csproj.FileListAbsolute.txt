@@ -1,0 +1,6 @@
+C:\Users\luisg\source\repos\Euler 4\Euler 4\bin\Debug\Euler 4.exe.config
+C:\Users\luisg\source\repos\Euler 4\Euler 4\bin\Debug\Euler 4.exe
+C:\Users\luisg\source\repos\Euler 4\Euler 4\bin\Debug\Euler 4.pdb
+C:\Users\luisg\source\repos\Euler 4\Euler 4\obj\Debug\Euler 4.csproj.CoreCompileInputs.cache
+C:\Users\luisg\source\repos\Euler 4\Euler 4\obj\Debug\Euler 4.exe
+C:\Users\luisg\source\repos\Euler 4\Euler 4\obj\Debug\Euler 4.pdb
